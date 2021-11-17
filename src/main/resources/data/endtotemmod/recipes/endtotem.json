@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ETE",
+    "EEE"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "G": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "item": "endtotemmod:endtotem"
+  }
+}
